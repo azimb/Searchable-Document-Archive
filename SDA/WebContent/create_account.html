@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Form to create a new account</title>
+ </head>
+ <style>label { float: left; width: 5em; margin-right: 1em; }
+</style>
+<body>
+
+  <form action="../COMP4601SecondBank/rest/bank" method="POST">
+  <label for="id">ID</label>
+  <input name="id" type="number"/>
+  <br/>
+  <label for="balance">Balance</label>
+  <input name="balance" type="number"/>
+  <br/>
+  <label for ="description">Description</label>
+  <TEXTAREA NAME="description" COLS=40 ROWS=4></TEXTAREA>
+  <br/>
+  <input type="submit" value="Submit" />
+  </form>
+</body>
+</html> 

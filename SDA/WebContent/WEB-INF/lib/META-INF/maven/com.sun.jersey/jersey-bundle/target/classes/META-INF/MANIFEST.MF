@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: azimb
+Build-Jdk: 13.0.1
+Implementation-Title: jersey-bundle
+Implementation-Version: 1.19.1
+Implementation-Vendor-Id: com.sun.jersey
+Implementation-Vendor: Oracle Corporation
+Build-Id: 1.19.1 ${buildNumber}
+Created-By: Maven Integration for Eclipse
+
